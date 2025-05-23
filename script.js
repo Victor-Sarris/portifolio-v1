@@ -1,1 +1,1 @@
-alert("Prazer em te conhecer :)");
+// alert("Prazer em te conhecer 🤓");
