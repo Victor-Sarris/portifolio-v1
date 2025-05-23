@@ -1,0 +1,7 @@
+- paleta de cores usadas no site:
+
+vermelho: #F03C3C
+black:rgb(58, 58, 58)
+bege: #FAE3C6
+
+Cores iniciais do site
